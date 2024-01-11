@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @obi-two-kenobi
-- 👀 I’m interested in Embedded Engineering
-- 🌱 I’m currently learning IoT
-- 📫 How to reach me via aamad50@gmail.com
+- 👀 I’m interested in Embedded Systems
+- 🌱 I’m currently doing my masters in Embedded Systems Engineering
+- 📫 How to reach me via ali.alhalabi97@icloud.com
 
 <!---
 obi-two-kenobi/obi-two-kenobi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
