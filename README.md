@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @obi-two-kenobi
-- 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently doing my masters in Embedded Systems Engineering
+- 👀 I’m interested in Embedded Systems, Automative Sensors, CUDA, ammong other things!
+- 🌱 Masters in Embedded Systems Engineering
 - 📫 How to reach me via ali.alhalabi97@icloud.com
 
 <!---
