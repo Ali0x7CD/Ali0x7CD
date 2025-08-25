@@ -2,7 +2,7 @@
 - 👀 I’m interested in Embedded Systems, Automotive Sensors, CUDA, among other things!
 - 🌱 Masters in Embedded Systems Engineering
 - 📫 Reach me via ali.alhalabi97@icloud.com
-- 📃 Check [My CV!](https://obi-two-kenobi.github.io) or my pinned projects ⤵️
+- 📃 Check [My CV!](https://Ali0x7CD.github.io) or my pinned projects ⤵️
 
 <!---
 obi-two-kenobi/obi-two-kenobi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
